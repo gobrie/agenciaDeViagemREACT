@@ -1,0 +1,15 @@
+.form__container {
+    margin-top: 100px;
+    position: relative;
+    width: 500px;
+    left:37%;
+    top:29%;
+
+}
+
+.mb-3 {
+    justify-content: center;
+    align-items: center;
+}
+
+
